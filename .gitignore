@@ -1,0 +1,10 @@
+# всё, что скачивает установщик, и результаты — не в git
+flux/models/
+flux/sd/
+flux/outputs/
+flux/app/system_prompts.json
+rmbg/.venv/
+rmbg/models/
+agents/instructions.generated.md
+__pycache__/
+*.part
